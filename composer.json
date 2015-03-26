@@ -1,0 +1,8 @@
+{
+    "name": "lservice/dice",
+    "description": "Lservice dice",
+
+    "autoload": {
+        "classmap": ["App/"]
+    }
+}
